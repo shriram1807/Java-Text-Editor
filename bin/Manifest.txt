@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Shriram Rangarajan
+Main-Class: com/heinz/TextReader
+
+Name: com/heinz
+Sealed: true
+
